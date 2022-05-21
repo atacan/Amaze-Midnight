@@ -1,5 +1,3 @@
-# Amaze-Midnight
-Xcode theme built on the default Midnight theme
 ## Changes on the Midnight theme:
 * Type Declarations and Other Declarations are in yellow, which is the most stand-out color of the theme. It makes it easier to follow the outline of your code while you scroll through it, especially the method/function definitions.
 * The class and type names have a different tone than the method and variable names.
