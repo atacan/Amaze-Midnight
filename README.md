@@ -4,6 +4,8 @@
 * The red color of the default string always looked like there is an alert. It is now dimmed.
 * Terminal text color is green and uses the Iosevka font that is more compact.
 * The background color is pure black.
-
+## Install
+put the `.xcolortheme` file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+## Preview
 ![](screenshots/vapor_userscontroller.png)
 ![](screenshots/swiftui_garden.png)
